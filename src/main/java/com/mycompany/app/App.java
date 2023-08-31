@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Wellcome To DIET College! This is workshop session" );
+        System.out.println( "Wellcome To DIET College! This is jenkins session for knowing devops plugins" );
     }
 }
